@@ -31,9 +31,18 @@ body {
     font-size: 21px;
 }
 
-.intro, .education, .skills, .programming languages, .Projects, 
+.intro, .education, .skills, .Projects, 
 .Certifications,.Community,
 .interests, .contact {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 5px solid #004aad;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.programming languages{
     background-color: #fff;
     padding: 20px;
     margin-bottom: 20px;
